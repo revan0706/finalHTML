@@ -1,0 +1,40 @@
+a.button{
+    display: inline-block;
+    padding: 16px;
+    text-decoration: none;
+    background-color: #3d30a2;
+    border-radius: 12px;
+    font-weight: bold;
+    color: #f5f7f8;
+}
+
+a.button:hover{
+    background-color: #5d53a1;
+}
+
+
+a.dangerButton{
+        background-color: #d2023d;
+}
+
+a.dangerButton:hover{
+    background-color: #ca3e66;
+}
+
+a.warningButton{
+    background-color: #f6a139;
+}
+
+a.warningButton:hover{
+
+    background-color: #fdb35a;
+}
+
+
+a.succesButton{
+    background-color: #54b435;
+}
+
+a.succesButton:hover{
+    background-color: #77ca5b;
+}
