@@ -1,0 +1,24 @@
+.table1{
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 12px;
+    text-align: center;
+    color: white;
+    width: 1445px;
+}
+
+.header{
+    background-color: #363062;
+}
+
+.main{
+    background-color: #5b5a83;
+}
+
+.footer{
+    background-color: #fdae4f;
+}
+
+caption{
+    background-color: #072541;
+}
