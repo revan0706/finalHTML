@@ -1,4 +1,3 @@
-
 /* list 1 */
 ul#list_wd {
     background-color: #687eff;
@@ -24,7 +23,7 @@ ul#list_wd li ul li {
 
 /* list 2 */
 
-ul#list_comp{
+ul#list_comp {
     background-color: #687eff;
     border-radius: 8px;
     /* padding: 8px; */
@@ -33,9 +32,9 @@ ul#list_comp{
     list-style-type: "\1f4bb";
 }
 
-ul#list_comp li{
+ul#list_comp li {
     padding: 8px;
-    background-color:#80b3ff ;
+    background-color: #80b3ff;
     border-radius: 8px;
     margin-bottom: 8px;
     color: #f5f7f8;

@@ -1,0 +1,31 @@
+ul.floatMenu {
+
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    background-color: #742550;
+    overflow: auto;
+}
+
+ul.floatMenu li {
+    float: left;
+
+}
+
+ul.floatMenu li a {
+
+    text-decoration: none;
+    color: #f5f7f8;
+    padding: 16px;
+    display: inline-block;
+}
+
+ul.floatMenu li a:hover {
+
+    background-color: #9c4f79;
+
+}
+
+ul.floatMenu li.right{
+    float: right;
+}

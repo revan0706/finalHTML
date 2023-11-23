@@ -1,0 +1,28 @@
+
+
+ul.displaymenu{
+
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    background-color: #742550;
+}
+
+ul.displaymenu li{
+
+    display: inline;
+}
+
+ul.displaymenu li a{
+
+    text-decoration: none;
+    color: #f5f7f8;
+    padding: 16px;
+    display: inline-block;
+}
+
+ul.displaymenu li a:hover{
+
+    background-color: #9c4f79;
+
+}
