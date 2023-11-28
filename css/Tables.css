@@ -1,4 +1,4 @@
-.table1{
+/* .table1{
     border: 1px solid white;
     border-collapse: collapse;
     padding: 12px;
@@ -21,4 +21,16 @@
 
 caption{
     background-color: #072541;
+} */
+
+
+table,th,td,caption{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+
+.table1 ~ tr ~ th{
+
+    background-color: #363062;
 }

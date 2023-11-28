@@ -1,0 +1,42 @@
+header,
+footer {
+    background-color: gray;
+}
+
+nav {
+    background-color: #176b87;
+    width: 30%;
+}
+
+article {
+    background-color: #64ccc5;
+    width: 70%;
+}
+
+h1,
+ul,
+p {
+    margin: 0px;
+    padding: 16px;
+}
+
+nav,
+article {
+    height: 200px;
+    box-sizing: border-box;
+    float: left;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #f5f6f7;
+}
+
+ul {
+    list-style-type: none;
+}

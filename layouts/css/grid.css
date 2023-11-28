@@ -1,0 +1,36 @@
+body {
+    display: grid;
+   grid-template-areas: 'h h h' 'n a a' 'f f f';
+}
+
+header,
+footer {
+    background-color: gray;
+}
+
+header {
+    grid-area: h;
+
+}
+
+nav {
+    background-color: #176b87;
+    grid-area: n;
+
+}
+
+article {
+    background-color: #64ccc5;
+    grid-area: a;
+}
+
+footer {
+    grid-area: f;
+}
+
+h1,
+ul,
+p {
+    margin: 0px;
+    padding: 16px;
+}
