@@ -1,0 +1,12 @@
+body {
+    background-color: #dcbfff;
+    padding: 0px;
+    margin: 0px;
+}
+
+iframe {
+    width: 97%;
+    height: 250px;
+    margin: 16px;
+    border: 3px solid black;
+}
