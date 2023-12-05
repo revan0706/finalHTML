@@ -14,6 +14,7 @@ ul.verticalMenu li a {
     color: #f5f7f8;
     padding: 16px;
     display: block;
+    font-weight: bold;
 }
 
 ul.verticalMenu li a:hover {

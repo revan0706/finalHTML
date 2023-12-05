@@ -19,6 +19,7 @@ ul.displaymenu li a{
     color: #f5f7f8;
     padding: 16px;
     display: inline-block;
+    font-weight: bold;
 }
 
 ul.displaymenu li a:hover{
